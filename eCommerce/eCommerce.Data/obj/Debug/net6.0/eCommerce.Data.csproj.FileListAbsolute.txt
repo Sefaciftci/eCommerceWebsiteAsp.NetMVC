@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\eCommerceWebSite\eCommerce\eCommerce.Data\bin\Debug\net6.0\eCommerce.Data.deps.json
+C:\Users\HP\Desktop\eCommerceWebSite\eCommerce\eCommerce.Data\bin\Debug\net6.0\eCommerce.Data.runtimeconfig.json
+C:\Users\HP\Desktop\eCommerceWebSite\eCommerce\eCommerce.Data\bin\Debug\net6.0\eCommerce.Data.dll
+C:\Users\HP\Desktop\eCommerceWebSite\eCommerce\eCommerce.Data\bin\Debug\net6.0\eCommerce.Data.pdb
+C:\Users\HP\Desktop\eCommerceWebSite\eCommerce\eCommerce.Data\bin\Debug\net6.0\eCommerce.Entities.dll
+C:\Users\HP\Desktop\eCommerceWebSite\eCommerce\eCommerce.Data\bin\Debug\net6.0\eCommerce.Entities.pdb
+C:\Users\HP\Desktop\eCommerceWebSite\eCommerce\eCommerce.Data\obj\Debug\net6.0\eCommerce.Data.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\eCommerceWebSite\eCommerce\eCommerce.Data\obj\Debug\net6.0\eCommerce.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\eCommerceWebSite\eCommerce\eCommerce.Data\obj\Debug\net6.0\eCommerce.Data.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\eCommerceWebSite\eCommerce\eCommerce.Data\obj\Debug\net6.0\eCommerce.Data.AssemblyInfo.cs
+C:\Users\HP\Desktop\eCommerceWebSite\eCommerce\eCommerce.Data\obj\Debug\net6.0\eCommerce.Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\eCommerceWebSite\eCommerce\eCommerce.Data\obj\Debug\net6.0\eCommerce.Data.csproj.CopyComplete
+C:\Users\HP\Desktop\eCommerceWebSite\eCommerce\eCommerce.Data\obj\Debug\net6.0\eCommerce.Data.dll
+C:\Users\HP\Desktop\eCommerceWebSite\eCommerce\eCommerce.Data\obj\Debug\net6.0\refint\eCommerce.Data.dll
+C:\Users\HP\Desktop\eCommerceWebSite\eCommerce\eCommerce.Data\obj\Debug\net6.0\eCommerce.Data.pdb
+C:\Users\HP\Desktop\eCommerceWebSite\eCommerce\eCommerce.Data\obj\Debug\net6.0\eCommerce.Data.genruntimeconfig.cache
+C:\Users\HP\Desktop\eCommerceWebSite\eCommerce\eCommerce.Data\obj\Debug\net6.0\ref\eCommerce.Data.dll

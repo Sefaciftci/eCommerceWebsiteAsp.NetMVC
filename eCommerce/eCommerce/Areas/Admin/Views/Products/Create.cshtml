@@ -1,0 +1,69 @@
+﻿@model eCommerce.Entities.Urun
+
+@{
+    ViewData["Title"] = "Ürün Ekle";
+}
+
+<h1>Ürün Ekle</h1>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="MarkaId" class="control-label"></label>
+                <select asp-for="MarkaId" class="form-select" asp-items="ViewBag.MarkaId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Formu" class="control-label"></label>
+                <input asp-for="Formu" class="form-control" />
+                <span asp-validation-for="Formu" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Fiyat" class="control-label"></label>
+                <input asp-for="Fiyat" class="form-control" />
+                <span asp-validation-for="Fiyat" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Miktari" class="control-label"></label>
+                <input asp-for="Miktari" class="form-control" />
+                <span asp-validation-for="Miktari" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Aromasi" class="control-label"></label>
+                <input asp-for="Aromasi" class="form-control" />
+                <span asp-validation-for="Aromasi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UretimYili" class="control-label"></label>
+                <input asp-for="UretimYili" class="form-control" />
+                <span asp-validation-for="UretimYili" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="SatistaMi" /> @Html.DisplayNameFor(model => model.SatistaMi)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="Notlar" class="control-label"></label>
+                <input asp-for="Notlar" class="form-control" />
+                <span asp-validation-for="Notlar" class="text-danger"></span>
+            </div>
+            <!--
+                <div class="form-group">
+                <label asp-for="Resim1" class="control-label"></label>
+                <input asp-for="Resim1" class="form-control" type="file" />
+                <span asp-validation-for="Resim1" class="text-danger"></span>
+            </div>
+            -->
+            
+            <div class="form-group">
+                <input type="submit" value="Ekle" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
